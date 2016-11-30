@@ -116,3 +116,5 @@ class SemverVersion {
   boolean dirty // Is the git repo dirty?
 }
 ```
+
+Modified
